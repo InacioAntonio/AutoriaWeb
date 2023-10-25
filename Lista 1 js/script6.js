@@ -1,0 +1,14 @@
+let tam1 = prompt("Digite o tamanho de um lado do triangulo ");
+let tam2 = prompt("Digite o tamanho de um lado do triangulo ");
+let tam3 = prompt("Digite o tamanho de um lado do triangulo ");
+tam1 = parseInt(tam1);
+tam2 = parseInt(tam2);
+tam3 = parseInt(tam3);
+let perimetro = tam1 + tam2 + tam3;
+alert(perimetro);
+let base = prompt("Digite a base do triangulo ");
+let altura = prompt("Digite a altura do triangulo ");
+parseInt(base);
+parseInt(altura);
+let area = (base * altura) / 2;
+alert(area);

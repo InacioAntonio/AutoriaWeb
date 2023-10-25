@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+  test-align: center;
+}
+
+body {
+  background-color: white;
+}
+.azul {
+  color: black;
+  size: 56px;
+}
+.titulo {
+  text-align: center;
+}
+.C {
+  background-color: red;
+}
+div {
+  background-color: black;
+  size: 500px;
+}
+.botao {
+  background-color: purple;
+  color: white;
+  margin-left: 50%;
+}

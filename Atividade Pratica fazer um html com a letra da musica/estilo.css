@@ -1,0 +1,9 @@
+.Titulo {
+  text-align: center;
+  color: red;
+  text-size-adjust: 56px;
+}
+body {
+  background-color: black;
+  color: white;
+}
